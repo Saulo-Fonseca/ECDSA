@@ -1,5 +1,5 @@
 // Title: ECDSA File Signer
-// Author: Saulo Fonseca <saulo@astrotown.de>
+// Author: Saulo Fonseca <fonseca@astrotown.de>
 // Description: Signs and verifies a file using priv/pub bitcoin keys
 // Dependencies: You need to install GMP library
 
