@@ -2,7 +2,7 @@
 #define GUARD_GF
 
 // Class to simulate a Galois Field
-// Author: Saulo Fonseca <saulo@astrotown.de>
+// Author: Saulo Fonseca <fonseca@astrotown.de>
 #include <gmpxx.h>  // mpz_class (bignum)
 #include <stdio.h>
 #include <iostream>
